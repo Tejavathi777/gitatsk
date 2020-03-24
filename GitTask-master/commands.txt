@@ -1,0 +1,15 @@
+#command for cloning the repository
+git clone (url)
+
+#command for commit 
+git commit -m "message" filename
+
+#command for pushing into github
+git push -u origin master
+
+#command for creating branch
+git branch [name]
+
+#command for merging 
+git merge [name]
+
